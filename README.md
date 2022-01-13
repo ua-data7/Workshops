@@ -1,3 +1,5 @@
-# UADATA7 Workshops
-Training Workshops on Data Science.
-Space for continuous training materials promoted by the UA Data7 group.
+# ua-data7-ws.readthedocs.io
+
+UADATA7 Workshops contents at ReadTheDocs
+
+Jan. 12, 2022
